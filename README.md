@@ -2,7 +2,7 @@
 # Hey, Namste, Vannakam 😎 🌟 😎
 
 - 👋 Hi, I’m @GeekyNoobCoder99 a third year engineering student from India
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m currently interested in Frontend Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on frontend css frameworks
 
