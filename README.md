@@ -1,6 +1,5 @@
 
-# Just Starting
-
+# Hey, Namste, Vannakam 😎 🌟 😎
 
 - 👋 Hi, I’m @GeekyNoobCoder99 a third year engineering student from India
 - 👀 I’m interested in Frontend Developer
